@@ -1,6 +1,12 @@
-# Profile Page
+# Profile Card
 
-Projeto de uma página de perfil responsiva e minimalista com tema claro e escuro.
+Projeto de um card de perfil responsivo e minimalista com tema claro e escuro.
+
+## Funcionalidades
+
+- Exibição de foto, nome, localização e cargo.
+- Links para redes sociais (Instagram, LinkedIn e GitHub).
+- Alternância entre tema claro e escuro com armazenamento da preferência no LocalStorage.
 
 ## Tecnologias Utilizadas
 
@@ -9,14 +15,3 @@ Projeto de uma página de perfil responsiva e minimalista com tema claro e escur
 - JavaScript (para troca de tema)
 - Bootstrap Icons
 - Google Fonts
-
-## Funcionalidades
-
-- Exibição de foto, nome, localização e cargo.
-- Links para redes sociais (Instagram, LinkedIn e GitHub).
-- Alternância entre tema claro e escuro com armazenamento da preferência no LocalStorage.
-
-## Como Executar
-
-1. Baixe ou clone o repositório.
-2. Abra o arquivo `index.html` no navegador.
